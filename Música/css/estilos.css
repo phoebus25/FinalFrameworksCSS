@@ -22,3 +22,36 @@
   height: 60px;
   border: none;
 }
+.quote{
+  font-size: 1.3rem;
+}
+.contenido{
+  margin: 10px;
+}
+.contenido img{
+  margin-top: 120px;
+}
+.comentario{
+  display: inline;
+}
+.persona{
+  width: 90px;
+}
+.form{
+  margin: 20px;
+}
+.buscar{
+  margin-top: 30px;
+}
+.listado{
+  margin-top: 30px;
+  width: 210px;
+}
+.pie{
+  background: #c2185b;
+  border: none;
+  color: white;
+}
+.fin{
+  margin-top: 5px;
+}
