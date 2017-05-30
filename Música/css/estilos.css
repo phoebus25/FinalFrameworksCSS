@@ -1,0 +1,24 @@
+.header1{
+ margin-top: 10px;
+  margin-bottom: 10px;
+}
+.logo-img{
+  width: 8rem;
+}
+.titulo{
+ font-size: 1.5rem;
+ font-weight: bold;
+}
+.redes-sociales{
+  margin-top: 50px;
+  word-spacing: 8px;
+}
+.img-social {
+  width: 30px;
+  height: 30px;
+}
+.navbar1, .btn{
+  background: #c2185b;
+  height: 60px;
+  border: none;
+}
