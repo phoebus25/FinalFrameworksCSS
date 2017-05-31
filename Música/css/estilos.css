@@ -1,6 +1,22 @@
+body{
+  background: #f8bbd0;
+}
+.container{
+  max-width: 1000px;
+}
+.contenedor1{
+  background: white;
+  border-radius: 5px ;
+}
+.contenedor2{
+  margin-top: 20px;
+  background: #fff8e1;
+  border-radius: 5px;
+}
 .header1{
- margin-top: 10px;
+  margin-top: 10px;
   margin-bottom: 10px;
+  background: white;
 }
 .logo-img{
   width: 8rem;
@@ -22,11 +38,14 @@
   height: 60px;
   border: none;
 }
+.navbar1{
+  border-radius: 0px 0px 5px 5px;
+}
 .quote{
   font-size: 1.3rem;
 }
 .contenido{
-  margin: 10px;
+  margin: 20px;
 }
 .contenido img{
   margin-top: 120px;
@@ -34,24 +53,37 @@
 .comentario{
   display: inline;
 }
-.persona{
-  width: 90px;
+.img-persona{
+  width: 75px;
 }
 .form{
   margin: 20px;
 }
 .buscar{
   margin-top: 30px;
+  width: 100%;
 }
 .listado{
   margin-top: 30px;
-  width: 210px;
+  width: 100%;
 }
 .pie{
+  margin-top: 30px;
   background: #c2185b;
-  border: none;
+  border-radius: 0px 0px 5px 5px;
   color: white;
 }
 .fin{
   margin-top: 5px;
+}
+
+@media (max-width: 768px) {
+  .navbar1 {
+    background: none;
+  }
+
+  .contenido img{
+    margin-top: 15px;
+  }
+
 }
