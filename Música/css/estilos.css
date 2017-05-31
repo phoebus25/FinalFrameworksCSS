@@ -5,6 +5,7 @@ body{
   max-width: 1000px;
 }
 .contenedor1{
+  margin-top: 10px;
   background: white;
   border-radius: 5px ;
 }
@@ -12,6 +13,7 @@ body{
   margin-top: 20px;
   background: #fff8e1;
   border-radius: 5px;
+  margin-bottom: 10px;
 }
 .header1{
   margin-top: 10px;

@@ -1,0 +1,46 @@
+body{
+  background-image: url(../img/1.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+.contenedor{
+  background-color: yellow;
+  max-width: 1000px;
+  opacity: 0.7;
+}
+.contenedor1{
+  background-color: gray;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  padding: 15px;
+
+}
+.contenedor2{
+  background-color: red;
+  border-radius: 5px;
+  padding: 15px;
+  padding-top: 30px;
+}
+.boton{
+  
+}
+.espacio-img{
+  padding-top: 10px;
+}
+.crop-img{
+  object-fit: cover;
+  height: 200px;
+}
+.area{
+  margin-bottom: 3px;
+}
+.comentario{
+  border: gray solid 1px;
+  border-radius: 5px;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  margin-bottom: 6px;
+}
