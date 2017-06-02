@@ -1,0 +1,25 @@
+.container1{
+  max-width: 1000px;
+  }
+.logo{
+  border-radius: 10px;
+}
+.slogan{
+  font-style: italic;
+}
+.img-social{
+  width: 40px;
+  height: 40px;
+  margin-top: 10px;
+  border-radius: 5px;
+}
+.galeria{
+  margin-bottom: 15px;
+}
+.espacio{
+  margin: 0px;
+  padding: 0px;
+}
+.perfil{
+  padding: 30px;
+}
