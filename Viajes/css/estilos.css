@@ -4,6 +4,7 @@
   background-position: bottom;
   background-size: auto;
   background-attachment: fixed;
+  margin-top: 15px;
 }
 .logo{
   border-radius: 10px;
@@ -14,6 +15,9 @@
 }
 .btn{
   font-size: .8rem;
+}
+.botones{
+  margin-left: 140px;
 }
 .img-social{
   width: 40px;
