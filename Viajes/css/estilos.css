@@ -1,11 +1,19 @@
-.container1{
-  max-width: 1000px;
-  }
+.contenedor{
+  background-image: url(../img/fondo.jpg);
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-size: auto;
+  background-attachment: fixed;
+}
 .logo{
   border-radius: 10px;
 }
 .slogan{
   font-style: italic;
+  text-shadow: 3px 3px 5px white;
+}
+.btn{
+  font-size: .8rem;
 }
 .img-social{
   width: 40px;
